@@ -5,7 +5,7 @@ import Map from "./components/Map";
 import Footer from "./components/Footer";
 import Showcase from "./components/Showcase";
 import Support from "./components/Support";
-import Info from "./components/information";
+import Info from "./components/Information";
 const App = () => {
   return (
     <>
