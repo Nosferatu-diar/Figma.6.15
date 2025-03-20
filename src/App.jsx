@@ -3,7 +3,7 @@ import Header from "./components/Headers";
 import Benefit from "./components/Benefit";
 import Map from "./components/Map";
 import Footer from "./components/Footer";
-import Showcase from "./components/showcase";
+import Showcase from "./components/Showcase";
 import Support from "./components/Support";
 import Info from "./components/information";
 const App = () => {
